@@ -14,6 +14,8 @@ dependencies:
   - conda-forge::r-ggpubr
   - conda-forge::r-ggridges
   - conda-forge::r-viridis
+  
+  - conda-forge::procps-ng
 
   - pip
   - pip:
